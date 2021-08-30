@@ -14,7 +14,6 @@ import java.util.*;
 import static org.bukkit.Bukkit.broadcastMessage;
 
 public class Ranking {
-
     public void set(Player p, Integer i) {
         Bukkit.getScheduler().runTaskAsynchronously(LoginPoint.getPlugin(LoginPoint.class), () -> {
             File file = new File("plugins/LoginPoint/Ranking.yml");
