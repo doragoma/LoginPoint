@@ -18,6 +18,7 @@ import static org.bukkit.Bukkit.broadcastMessage;
 import static org.bukkit.Bukkit.getServer;
 
 public class Count {
+
     public static HashMap<Player, String> set = new HashMap<>();
     public static HashMap<Player, Integer> get = new HashMap<>();
 
