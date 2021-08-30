@@ -1,0 +1,10 @@
+name: LoginPoint
+version: '${project.version}'
+main: loginpoint.loginpoint.LoginPoint
+authors: [shinitaichan]
+description: LeonGunWar LoginPoint
+website: azisaba.net
+
+commands:
+  loginpoint:
+    aliases: [loginpoint,login,lp]

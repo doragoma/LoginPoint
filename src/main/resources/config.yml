@@ -1,0 +1,10 @@
+#
+# PlugMan や minecraft:reload を使用するとバグる可能性があります
+# /point reload もしくは 再起動 で対応してください。
+# バグは shinitaichan#4088まで
+#
+
+System:
+  # ランキングの最大表示人数
+  # デフォルトは100です。 (100人)
+  Ranking: 100
